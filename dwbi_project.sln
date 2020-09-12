@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "dwbi_project", "dwbi_project\dwbi_project.dtproj", "{3DF5118D-716D-45B3-9135-5C80DAB214E5}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "hw12", "..\..\..\assignments\assignment12\ssis\hw12\hw12\hw12.dtproj", "{47CCCC25-45B8-40E7-9BF1-6B0263FCD173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF5118D-716D-45B3-9135-5C80DAB214E5}.Development|Default.ActiveCfg = Development
+		{3DF5118D-716D-45B3-9135-5C80DAB214E5}.Development|Default.Build.0 = Development
+		{47CCCC25-45B8-40E7-9BF1-6B0263FCD173}.Development|Default.ActiveCfg = Development
+		{47CCCC25-45B8-40E7-9BF1-6B0263FCD173}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D6823D-8E2C-47E8-9809-B0413800A83B}
+	EndGlobalSection
+EndGlobal
